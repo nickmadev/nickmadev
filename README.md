@@ -1,7 +1,7 @@
-### Hi there 🙇🏽‍♂️
+### 初めまして 🙇🏽‍♂️
 
-This is Nick Ma, 8+ years of full-stack developer.<br>
-Please feel free to touch with me. 🤙🏼
+９年以上の経験を持っているフルスタックエンジニアです。<br>
+いつでもお気軽にご連絡いただければ本当に幸いです。🤙🏼
 <!--
 **nickmadev/nickmadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
